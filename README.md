@@ -1,0 +1,1 @@
+# cosc-304-lab-1--querying-using-relational-algebras-solved
